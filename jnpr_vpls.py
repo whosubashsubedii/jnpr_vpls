@@ -30,3 +30,4 @@ set routing-instances {vpls} protocols vpls vpls-id {vlan}
 {neighbour_cmd}
 """)
 
+a = input()
